@@ -1,0 +1,2 @@
+# mangoo-game
+.
